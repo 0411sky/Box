@@ -1,5 +1,8 @@
 name: Test Build
 
+permissions:
+  contents: write
+  packages: read
 on:
 #  push:
 #    branches:
